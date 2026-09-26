@@ -1,30 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
-  <title id="title">ReadBridge</title>
-  <desc id="desc">Read in the target language with contextual explanations, vocabulary, and AI assistance. The diagram is a conceptual illustration, not a benchmark or application screenshot.</desc>
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" role="img" aria-labelledby="title desc">
+  <title id="title">Read Bridge</title>
+  <desc id="desc">在展开的阅读本中选中 paused，结合上下文理解词义，再积累词汇。英文句子为功能示例。</desc>
   <defs>
-    <clipPath id="frame">
-      <rect width="1200" height="440" rx="24" />
+    <clipPath id="canvas">
+      <rect width="1200" height="640" rx="26" />
     </clipPath>
   </defs>
-  <g clip-path="url(#frame)">
-    <rect x="0" y="0" width="1200" height="440" rx="24" fill="#f6f1e5" />
-    <text x="60" y="72" font-family="'SFMono-Regular',Menlo,monospace" font-size="18" font-weight="600" fill="#b45b38" text-anchor="start">PERSONAL FORK / LANGUAGE LEARNING</text>
-    <text x="60" y="166" font-family="Georgia,'Songti SC',serif" font-size="72" font-weight="700" fill="#273a31" text-anchor="start">ReadBridge</text>
-    <text x="60" y="220" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="26" font-weight="400" fill="#273a31" text-anchor="start">Stay in the language.</text>
-    <text x="60" y="255" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="26" font-weight="400" fill="#273a31" text-anchor="start">Understand in context.</text>
-    <text x="60" y="400" font-family="'SFMono-Regular',Menlo,monospace" font-size="18" font-weight="600" fill="#b45b38" text-anchor="start">READ → NOTICE → UNDERSTAND</text>
-    <rect x="686" y="68" width="446" height="302" rx="10" fill="#fffdf6" stroke="#d9ddcf" stroke-width="2" />
-    <text x="719" y="109" font-family="'SFMono-Regular',Menlo,monospace" font-size="18" font-weight="600" fill="#b45b38" text-anchor="start">COMPREHENSIBLE INPUT</text>
-    <text x="719" y="161" font-family="Georgia,'Songti SC',serif" font-size="34" font-weight="500" fill="#273a31" text-anchor="start">A little beyond</text>
-    <text x="719" y="206" font-family="Georgia,'Songti SC',serif" font-size="34" font-weight="500" fill="#273a31" text-anchor="start">what you know.</text>
-    <path d="M718 246H1067M718 274H1044M718 302H1000" fill="none" stroke="#dddccc" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" />
-    <g id="reading-highlight">
-      <path d="M720 216H1052" fill="none" stroke="#b45b38" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+  <g clip-path="url(#canvas)">
+    <rect x="0" y="0" width="1200" height="640" rx="0" fill="#F6F0E3" />
+    <text x="49" y="45" font-family="Menlo, Consolas, monospace" font-size="18" font-weight="600" fill="#BB6944">CONTEXTUAL READING / LANGUAGE LEARNING</text>
+    <text x="47" y="123" font-family="Georgia, Songti SC, serif" font-size="70" font-weight="500" fill="#2F4338">Read Bridge V</text>
+    <text x="777" y="105" font-family="-apple-system, BlinkMacSystemFont, PingFang SC, Hiragino Sans, sans-serif" font-size="35" font-weight="500" fill="#2F4338">读下去，</text>
+    <text x="777" y="151" font-family="-apple-system, BlinkMacSystemFont, PingFang SC, Hiragino Sans, sans-serif" font-size="35" font-weight="500" fill="#2F4338">在语境里弄懂。</text>
+    <text x="51" y="176" font-family="-apple-system, BlinkMacSystemFont, PingFang SC, Hiragino Sans, sans-serif" font-size="25" font-weight="400" fill="#BB6944">阅读 · 词汇 · 上下文解释</text>
+    <path d="M48 226 Q350 208 661 232 Q908 211 1145 232 V556 Q905 541 661 565 Q352 547 48 562 Z" fill="#D7DDCA" stroke="#C8CDBA" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M48 215 Q350 197 661 221 V553 Q352 535 48 550 Z" fill="#FFFEF8" stroke="#DEDCCB" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M661 221 Q908 200 1145 221 V546 Q905 529 661 553 Z" fill="#FFFEF8" stroke="#DEDCCB" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M661 222 V551" fill="none" stroke="#B9C4AE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <text x="81" y="258" font-family="Menlo, Consolas, monospace" font-size="17" font-weight="500" fill="#BB6944">A MOMENT IN THE STORY</text>
+    <text x="82" y="324" font-family="Georgia, Songti SC, serif" font-size="34" font-weight="400" fill="#2F4338">She</text>
+    <text x="148" y="324" font-family="Georgia, Songti SC, serif" font-size="34" font-weight="400" fill="#2F4338">paused</text>
+    <text x="268" y="324" font-family="Georgia, Songti SC, serif" font-size="34" font-weight="400" fill="#2F4338">by the window.</text>
+    <text x="82" y="373" font-family="Georgia, Songti SC, serif" font-size="34" font-weight="400" fill="#2F4338">Outside, the city was</text>
+    <text x="82" y="422" font-family="Georgia, Songti SC, serif" font-size="34" font-weight="400" fill="#2F4338">slowly waking.</text>
+    <text x="83" y="493" font-family="-apple-system, BlinkMacSystemFont, PingFang SC, Hiragino Sans, sans-serif" font-size="20" font-weight="400" fill="#87917E">阅读示例 · 用上下文理解词语</text>
+    <text x="710" y="264" font-family="Menlo, Consolas, monospace" font-size="17" font-weight="600" fill="#BB6944">CONTEXT NOTES</text>
+    <path d="M711 302 H1101" fill="none" stroke="#E1E5D5" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M711 336 H1101" fill="none" stroke="#E1E5D5" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M711 370 H1101" fill="none" stroke="#E1E5D5" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M711 404 H1101" fill="none" stroke="#E1E5D5" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M711 438 H1101" fill="none" stroke="#E1E5D5" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M711 472 H1101" fill="none" stroke="#E1E5D5" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+    <text x="709" y="506" font-family="-apple-system, BlinkMacSystemFont, PingFang SC, Hiragino Sans, sans-serif" font-size="24" font-weight="400" fill="#2F4338">阅读时理解，再收进词汇本。</text>
+    <text x="52" y="608" font-family="-apple-system, BlinkMacSystemFont, PingFang SC, Hiragino Sans, sans-serif" font-size="26" font-weight="500" fill="#2F4338">文章阅读 → 语境解释 → 词汇积累</text>
+    <text x="1147" y="608" font-family="-apple-system, BlinkMacSystemFont, PingFang SC, Hiragino Sans, sans-serif" font-size="18" font-weight="400" fill="#87917E" text-anchor="end">功能插画 · 非软件截图</text>
+    <g id="reading-context">
+      <path d="M147 338 Q202 343 253 336" fill="none" stroke="#BB6944" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M253 340 C476 372 594 251 742 316" fill="none" stroke="#BB6944" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 6" />
     </g>
-    <g id="context-note">
-      <rect x="779" y="278" width="331" height="118" rx="12" fill="#b45b38" />
-      <text x="803" y="320" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="26" font-weight="600" fill="#fffdf6" text-anchor="start">Meaning, in context</text>
-      <text x="803" y="357" font-family="Georgia,'Songti SC',serif" font-size="32" font-weight="500" fill="#fffdf6" text-anchor="start">n + 1</text>
+    <g id="word-note" transform="rotate(-3 920 370)">
+      <rect x="756" y="294" width="344" height="168" rx="4" fill="#D6DCCB" />
+      <rect x="748" y="286" width="344" height="168" rx="4" fill="#F5E5CB" />
+      <text x="769" y="328" font-family="Georgia, Songti SC, serif" font-size="34" font-weight="500" fill="#2F4338">paused</text>
+      <text x="769" y="369" font-family="Georgia, Songti SC, serif" font-size="23" font-weight="400" fill="#2F4338">stopped for a short time</text>
+      <text x="769" y="410" font-family="-apple-system, BlinkMacSystemFont, PingFang SC, Hiragino Sans, sans-serif" font-size="26" font-weight="500" fill="#BB6944">停了一会儿</text>
+      <text x="769" y="439" font-family="-apple-system, BlinkMacSystemFont, PingFang SC, Hiragino Sans, sans-serif" font-size="17" font-weight="400" fill="#75806E">停顿发生在窗边的动作里。</text>
     </g>
   </g>
 </svg>

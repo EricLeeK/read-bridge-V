@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.gif" width="100%" alt="Read in the target language with contextual explanations, vocabulary, and AI assistance. Conceptual overview.">
+  <img src="./assets/readme/hero.gif" width="100%" alt="在展开的阅读本中选中 paused，结合上下文理解词义，再积累词汇。英文句子为功能示例。">
 </p>
 
 # ReadBridge: AI-Enhanced Reading Assistant for Language Learning
