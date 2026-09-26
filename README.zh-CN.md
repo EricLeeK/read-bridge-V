@@ -1,4 +1,12 @@
+<p align="center">
+  <img src="./assets/readme/hero.gif" width="100%" alt="Read in the target language with contextual explanations, vocabulary, and AI assistance. Conceptual overview.">
+</p>
+
 # ReadBridge: AI增强型语言学习阅读助手
+
+**阅读流程：** 导入内容 → 在语境中理解词句 → 继续阅读。
+
+本仓库是 [WindChimeEcho/read-bridge](https://github.com/WindChimeEcho/read-bridge) 的个人 fork，保留上游项目说明与许可证。
 
 *[English](./README.md) | [中文](./README.zh-CN.md)*
 

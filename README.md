@@ -1,4 +1,12 @@
+<p align="center">
+  <img src="./assets/readme/hero.gif" width="100%" alt="Read in the target language with contextual explanations, vocabulary, and AI assistance. Conceptual overview.">
+</p>
+
 # ReadBridge: AI-Enhanced Reading Assistant for Language Learning
+
+**Start here:** [Key features](#key-features) · [Run locally](#getting-started) · [AI configuration](#configuration)
+
+This is a personal fork of [WindChimeEcho/read-bridge](https://github.com/WindChimeEcho/read-bridge). Upstream documentation, authorship, and license information are retained below.
 
 *[English](./README.md) | [中文](./README.zh-CN.md)*
 
@@ -140,3 +148,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+<details>
+<summary>Static overview</summary>
+
+[Open the static SVG](./assets/readme/hero.svg).
+
+</details>

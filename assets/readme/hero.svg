@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">ReadBridge</title>
+  <desc id="desc">Read in the target language with contextual explanations, vocabulary, and AI assistance. The diagram is a conceptual illustration, not a benchmark or application screenshot.</desc>
+  <defs>
+    <clipPath id="frame">
+      <rect width="1200" height="440" rx="24" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect x="0" y="0" width="1200" height="440" rx="24" fill="#f6f1e5" />
+    <text x="60" y="72" font-family="'SFMono-Regular',Menlo,monospace" font-size="18" font-weight="600" fill="#b45b38" text-anchor="start">PERSONAL FORK / LANGUAGE LEARNING</text>
+    <text x="60" y="166" font-family="Georgia,'Songti SC',serif" font-size="72" font-weight="700" fill="#273a31" text-anchor="start">ReadBridge</text>
+    <text x="60" y="220" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="26" font-weight="400" fill="#273a31" text-anchor="start">Stay in the language.</text>
+    <text x="60" y="255" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="26" font-weight="400" fill="#273a31" text-anchor="start">Understand in context.</text>
+    <text x="60" y="400" font-family="'SFMono-Regular',Menlo,monospace" font-size="18" font-weight="600" fill="#b45b38" text-anchor="start">READ → NOTICE → UNDERSTAND</text>
+    <rect x="686" y="68" width="446" height="302" rx="10" fill="#fffdf6" stroke="#d9ddcf" stroke-width="2" />
+    <text x="719" y="109" font-family="'SFMono-Regular',Menlo,monospace" font-size="18" font-weight="600" fill="#b45b38" text-anchor="start">COMPREHENSIBLE INPUT</text>
+    <text x="719" y="161" font-family="Georgia,'Songti SC',serif" font-size="34" font-weight="500" fill="#273a31" text-anchor="start">A little beyond</text>
+    <text x="719" y="206" font-family="Georgia,'Songti SC',serif" font-size="34" font-weight="500" fill="#273a31" text-anchor="start">what you know.</text>
+    <path d="M718 246H1067M718 274H1044M718 302H1000" fill="none" stroke="#dddccc" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" />
+    <g id="reading-highlight">
+      <path d="M720 216H1052" fill="none" stroke="#b45b38" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+    <g id="context-note">
+      <rect x="779" y="278" width="331" height="118" rx="12" fill="#b45b38" />
+      <text x="803" y="320" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="26" font-weight="600" fill="#fffdf6" text-anchor="start">Meaning, in context</text>
+      <text x="803" y="357" font-family="Georgia,'Songti SC',serif" font-size="32" font-weight="500" fill="#fffdf6" text-anchor="start">n + 1</text>
+    </g>
+  </g>
+</svg>
